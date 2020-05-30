@@ -99,7 +99,5 @@ You can collect user feedback, report software bugs, and organize tasks you'd li
 In every situation where work can be parallelized, work will eventually overlap. Sometimes two developers will change the same line of code in two different ways  in such a case git conflict occurs.Git can handle most merges on its own with automatic merging features. A conflict arises when two separate branches have made edits to the same line in a file, or when a file has been deleted in one branch but edited in the other. Conflicts will most likely happen when working in a team environment.
 
 
-Regards
 
-Chetana Tijare
 
